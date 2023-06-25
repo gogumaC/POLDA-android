@@ -62,6 +62,11 @@
 
 <img src="https://github.com/gogumaC/POLDA-android/assets/59639035/1074e69e-43f2-4cfa-98cb-53f56d78e8a1" width=300px>
 <img src="https://github.com/gogumaC/POLDA-android/assets/59639035/27249996-e1f4-4675-9f1b-9d63ee1f6b52" width=300px>
+
+---
+
+갤러리에 저장된 폴라로이드
+
 <img src="https://github.com/gogumaC/POLDA-android/assets/59639035/b6155a59-e831-48c3-a9c9-8cf45f02246f" width=300px>
 
 
