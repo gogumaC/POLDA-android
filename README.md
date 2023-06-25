@@ -9,8 +9,6 @@
 - 기간 : 2021.03.01 ~ 2021.07.31
 - 배포 : [플레이 스토어 - POLDA](https://play.google.com/store/apps/details?id=com.apptive.android.myapplication)
 
-  <br>
-
 
 ## 🌼 Skills
 
@@ -24,7 +22,6 @@
 
 **Cooperation** | GitHub, Slack, Figma
 
-<br>
 
 ## 🌼 Features
 
@@ -38,28 +35,30 @@
     - 메모 및 글꼴 변경 ✏️
 - 폴라로이드를 갤러리에 **저장**💾 **/ 공유**📤
 
-<br>
 
 ## 🌼 Activities
 
 - 2021 BEE Hive 스터디 그룹(21.05~21.12)
 - 부산대학교 제 4 회 창의융합 소프트웨어 해커톤 대회(21.06.28~09.11)
 
-<br>
 
 ## 🌼 Awards
 
 - 🏆 2021 BEE Hive 스터디그룹 우수동아리 장려상
-<br>
+  
 
 ## 🌼 Demo
-![image](https://github.com/gogumaC/POLDA-android/assets/59639035/4d4603b3-940d-4d4a-91d5-ecd8e2f3d231)
-![image](https://github.com/gogumaC/POLDA-android/assets/59639035/0b939c5c-8c4d-432c-9bfd-dac11844cbe7)
+
+홈 / 검색 / 폴라로이드 만들기,조회
+
+![polda_시연_홈](https://github.com/gogumaC/POLDA-android/assets/59639035/3354a63b-940d-4ae4-a9b4-4c46a736034d)
+![polda_시연_검색](https://github.com/gogumaC/POLDA-android/assets/59639035/13506000-4efa-41de-b5f9-fa105a735338)
+
 ![image](https://github.com/gogumaC/POLDA-android/assets/59639035/287b2889-d15c-49c4-ab4e-0d178cd62a51)
 
-<br>
+---
 
-다크모드
+다크모드 홈/ 다크모드 앨범
 
 <img src="https://github.com/gogumaC/POLDA-android/assets/59639035/1074e69e-43f2-4cfa-98cb-53f56d78e8a1" width=300px>
 <img src="https://github.com/gogumaC/POLDA-android/assets/59639035/27249996-e1f4-4675-9f1b-9d63ee1f6b52" width=300px>
