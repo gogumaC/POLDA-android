@@ -3,7 +3,7 @@
 
 📌 리팩토링, 새로운 시도를 위해 Clone한 레포지토리입니다. [original repository](https://github.com/gogumaC/apptive_2021_Polda)
 
-## 소개
+## 🌼 Introduction
 
 - Team : 생감자
 - 기간 : 2021.03.01 ~ 2021.07.31
@@ -12,7 +12,7 @@
   <br>
 
 
-### 🌼 사용 기술
+## 🌼 Skills
 
 **Jetpack** | Navigation , LiveData , Databinding
 
@@ -26,7 +26,7 @@
 
 <br>
 
-### 🌼 구현한 기능
+## 🌼 Features
 
 - ***UI구현**🖼️*
     - 앨범 내부 화면
@@ -40,19 +40,19 @@
 
 <br>
 
-### 🌼 관련 활동
+## 🌼 Activities
 
 - 2021 BEE Hive 스터디 그룹(21.05~21.12)
 - 부산대학교 제 4 회 창의융합 소프트웨어 해커톤 대회(21.06.28~09.11)
 
 <br>
 
-### 🌼 수상
+## 🌼 Awards
 
 - 🏆 2021 BEE Hive 스터디그룹 우수동아리 장려상
 <br>
 
-### 🌼 실행 화면
+## 🌼 Demo
 ![image](https://github.com/gogumaC/POLDA-android/assets/59639035/4d4603b3-940d-4d4a-91d5-ecd8e2f3d231)
 ![image](https://github.com/gogumaC/POLDA-android/assets/59639035/0b939c5c-8c4d-432c-9bfd-dac11844cbe7)
 ![image](https://github.com/gogumaC/POLDA-android/assets/59639035/287b2889-d15c-49c4-ab4e-0d178cd62a51)
