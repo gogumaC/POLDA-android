@@ -1,7 +1,7 @@
 # POLDA-android
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCACA&height=200&section=header&text=Polda&fontSize=90&fontColor=3C3C3C&desc=|%20나만의%20폴라로이드%20다이어리&descSize=27&descAlign=65&descAlignY=55&fontAlign=28)
 
-📌 리팩토링, 새로운 시도를 위해 Clone한 레포지토리입니다. [original repository](https://github.com/gogumaC/apptive_2021_Polda)
+<!--📌 리팩토링, 새로운 시도를 위해 Clone한 레포지토리입니다. [original repository](https://github.com/gogumaC/apptive_2021_Polda)-->
 
 ## 🌼 Introduction
 
